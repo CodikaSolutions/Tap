@@ -1,5 +1,4 @@
 # Tap
-DRY and simple solution to fire an action when a view is tapped on iOS.
 
 On any UIView (or subclass of UIView) object you can use it like this:
 ```
